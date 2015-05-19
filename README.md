@@ -26,3 +26,8 @@ See the results
 ====
 
 A table will be created with the values of D and S for each sample, computed using the chi2/ndof of the full Global Track, the Trk from Glb Track, and the Sta from Glb Track.
+
+Produce samples
+====
+
+You can produce samples with CRAB using crab_config_data.py and crab_DQM.py. Just edit crab_config_data.py with the Run number you want to produce and run CRAB.
